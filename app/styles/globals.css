@@ -31,10 +31,6 @@ h1 {
   font-weight: bold;
 }
 
-button {
-  background-color: yellow;
-}
-
 .container {
   max-width: 1200px;
   padding: 1rem 2rem;
